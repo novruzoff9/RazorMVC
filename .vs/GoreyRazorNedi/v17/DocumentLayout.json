@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Novruzoff\\Desktop\\GoreyRazorNedi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|c:\\users\\novruzoff\\desktop\\goreyrazornedi\\pages\\movies\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|solutionrelative:pages\\movies\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|c:\\users\\novruzoff\\desktop\\goreyrazornedi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|c:\\users\\novruzoff\\desktop\\goreyrazornedi\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|c:\\users\\novruzoff\\desktop\\goreyrazornedi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|c:\\users\\novruzoff\\desktop\\goreyrazornedi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|c:\\users\\novruzoff\\desktop\\goreyrazornedi\\data\\goreyrazornedicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|solutionrelative:data\\goreyrazornedicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|c:\\users\\novruzoff\\desktop\\goreyrazornedi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|c:\\users\\novruzoff\\desktop\\goreyrazornedi\\pages\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|solutionrelative:pages\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|c:\\users\\novruzoff\\desktop\\goreyrazornedi\\pages\\movies\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|solutionrelative:pages\\movies\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|c:\\users\\novruzoff\\desktop\\goreyrazornedi\\pages\\movies\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|solutionrelative:pages\\movies\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Novruzoff\\Desktop\\GoreyRazorNedi\\Pages\\Movies\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Novruzoff\\Desktop\\GoreyRazorNedi\\Pages\\Movies\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Movies\\Details.cshtml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:25:01.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Novruzoff\\Desktop\\GoreyRazorNedi\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Novruzoff\\Desktop\\GoreyRazorNedi\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:21:32.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Novruzoff\\Desktop\\GoreyRazorNedi\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Novruzoff\\Desktop\\GoreyRazorNedi\\Models\\SeedData.cs",
+              "RelativeToolTip": "Models\\SeedData.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA1wBIAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:13:05.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Novruzoff\\Desktop\\GoreyRazorNedi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Novruzoff\\Desktop\\GoreyRazorNedi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T19:12:02.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Novruzoff\\Desktop\\GoreyRazorNedi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Novruzoff\\Desktop\\GoreyRazorNedi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T18:53:51.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GoreyRazorNediContext.cs",
+              "DocumentMoniker": "C:\\Users\\Novruzoff\\Desktop\\GoreyRazorNedi\\Data\\GoreyRazorNediContext.cs",
+              "RelativeDocumentMoniker": "Data\\GoreyRazorNediContext.cs",
+              "ToolTip": "C:\\Users\\Novruzoff\\Desktop\\GoreyRazorNedi\\Data\\GoreyRazorNediContext.cs",
+              "RelativeToolTip": "Data\\GoreyRazorNediContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAxwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:49:15.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Novruzoff\\Desktop\\GoreyRazorNedi\\Pages\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Novruzoff\\Desktop\\GoreyRazorNedi\\Pages\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Movies\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T18:47:28.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Novruzoff\\Desktop\\GoreyRazorNedi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Novruzoff\\Desktop\\GoreyRazorNedi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:47:18.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Novruzoff\\Desktop\\GoreyRazorNedi\\Pages\\Movies\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Novruzoff\\Desktop\\GoreyRazorNedi\\Pages\\Movies\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Movies\\Create.cshtml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:45:10.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Novruzoff\\Desktop\\GoreyRazorNedi\\Pages\\Movies\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Novruzoff\\Desktop\\GoreyRazorNedi\\Pages\\Movies\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Movies\\Index.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:41:50.361Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
